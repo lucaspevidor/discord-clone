@@ -8,6 +8,7 @@
     "prefer-readonly": "off",
     "quotes": [2, "double"],
     "semi": ["error", "always"],
-    "space-before-function-paren": [2, "never"]
+    "space-before-function-paren": [2, "never"],
+    "object-curly-spacing": ["error", "always"]
   }
 }
