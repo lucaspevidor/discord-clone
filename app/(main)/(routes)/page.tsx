@@ -3,5 +3,5 @@ export default function Home() {
     <div className='p-5'>
       This is a protected route
     </div>
-  )
+  );
 }
